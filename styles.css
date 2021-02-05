@@ -4,4 +4,8 @@ body {
 h1{
     background-color: lawngreen;
     color: orange;
+    padding: 1px;
+    padding-right: 0px;
+    margin: 1px;
+    border: solid black;
 }
